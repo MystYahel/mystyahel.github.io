@@ -34,3 +34,7 @@
 .contact-header {
     padding: 20px 15px;
 }
+
+p {
+    text-align: right;
+}
