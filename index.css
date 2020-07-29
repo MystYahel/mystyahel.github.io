@@ -1,0 +1,67 @@
+.bar-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.bar-li {
+    float: left;
+}
+
+.bar-link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+.bar-link:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+#main-header {
+    text-align: center;
+}
+
+.about-epilepsy-header {
+    text-align: right;
+}
+
+.about-epilepsy-paragraph {
+    text-align: right;
+    font-size: 22px;
+}
+
+.existing-treatments-header {
+    text-align: right;
+}
+
+.treatments-header {
+    text-align: right;
+}
+
+.existing-treatments-paragraph {
+    text-align: right;
+    font-size: 22px;
+}
+
+.our-solution {
+    text-align: right;
+}
+
+.our-solution-paragraph {
+    text-align: right;
+    font-size: 22px;
+}
